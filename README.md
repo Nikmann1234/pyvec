@@ -2,7 +2,7 @@
 Demo project for learning git and python
 
 ## Subhedline
-This confik option 'whatever' is nice.
+This config option `whatever` is nice.
 
 1. lol
 2. lol
